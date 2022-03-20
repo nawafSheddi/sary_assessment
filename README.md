@@ -6,12 +6,8 @@ A new Flutter project.
 
 [link of video test of app functions](https://drive.google.com/drive/folders/1twewd4IQLwBrCaBln_lNteR6DaEs_JNj?usp=sharing)
 
+## to test the app locally 
 
-A few resources to get you started if this is your first Flutter project:
+clone the projec in VScode and get pub the packeges and run it
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+any questions contact me at [email](nawaf.sheddi@gmail.com) my [phone number](0568712266)
