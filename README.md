@@ -8,8 +8,8 @@ link of video test of app functions [her](https://drive.google.com/drive/folders
 
 ## to test the app locally 
 
-*clone the projec in VScode
-*get pub the packeges
-*run it
+1. clone the projec in VScode
+2. get pub the packeges
+3. run it
 
 any questions contact me at [email](nawaf.sheddi@gmail.com) my [phone number](0568712266)
